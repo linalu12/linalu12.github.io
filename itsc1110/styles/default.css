@@ -1,0 +1,117 @@
+h1{
+    color: #ffffff;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Skranji', system-ui;
+    
+}
+
+body{
+    background-color: #08456e;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.skranji-regular {
+    font-family: "Skranji", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+#school {
+    color: #61b4ec;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Skranji', system-ui;
+    text-decoration: underline;
+}
+main{
+    margin-bottom: 450px;
+}
+
+footer {
+    background-color: #071b28;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+nav {
+    margin: 20px 0;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #61b4ec;
+    font-size: 20px;
+    outline: dashed 3px #61b4ec;    
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: 'Skranji', system-ui;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+footer p {
+    font-family: 'Skranji', system-ui;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.skranji-bold {
+    font-family: "Skranji", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+#school {
+    color: #61b4ec;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Skranji', system-ui;
+    text-decoration: underline;
+
+}
+
+figcaption {
+    font-size: 15px;
+    color: #ffffff;
+    font-family: 'Skranji', system-ui;
+}
+.info {
+
+    color: #ffff;
+    padding: 20px;
+    border-radius: 10px;
+    /* width: 80%; */
+    margin: 100px;
+    font-family: 'Skranji', system-ui;
+    outline: dashed 3px #61b4ec;
+    text-align: left;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+#contract{
+    font-family: 'Skranji', system-ui;
+    font-size: 22px;
+    color: #ffffff;
+    margin: 100px;
+    text-align: left;
+    line-height: 1.6;
+    outline: dashed 3px #61b4ec;
+    padding: 10px;
+    border-radius: 5px;
+}
+main{
+    margin-bottom: 250px;
+}
+
+img{ 
+    height: auto;
+    border-radius: 10px;
+    outline: dashed 3px #61b4ec;
+    padding: 10px;
+}
